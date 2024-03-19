@@ -1,0 +1,39 @@
+{
+  "todos": [
+    {
+      "id": "70de",
+      "title": "Learn React",
+      "status": true
+    },
+    {
+      "id": "e062",
+      "title": "Learn JS",
+      "status": true
+    },
+    {
+      "id": "699b",
+      "title": "try it now",
+      "status": false
+    },
+    {
+      "id": "3cb9",
+      "title": "go go",
+      "status": false
+    },
+    {
+      "id": "582f",
+      "title": "ibibo",
+      "status": false
+    },
+    {
+      "id": "dbb2",
+      "title": "google",
+      "status": false
+    },
+    {
+      "id": "9419",
+      "title": "wwww",
+      "status": false
+    }
+  ]
+}
